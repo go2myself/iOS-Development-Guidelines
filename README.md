@@ -2,12 +2,12 @@
 
 ---
 
-该[文档](https://dklinzh.gitbooks.io/ios-development-guidelines/content/)主要面向iOS开发团队，以[Coding Guidelines for Cocoa](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146-SW1)为基础针对编码、项目架构、开发实践等进行规范和约定。持续更新中......
+该[文档](https://dklinzh.gitbooks.io/ios-development-guidelines/content/)主要面向中国农业银行iOS开发团队，以[Coding Guidelines for Cocoa](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146-SW1)为基础针对编码、项目架构、开发实践等进行规范和约定。持续更新中......
 
-# Summary
+![](/assets/logo_big.png)
 
 * [0. 介绍](README.md)
-* [1. 序言](1.md)
+* [1. 核心原则](1.md)
 * [2. 代码命名规范](2.md)
   * [2.1. 代码命名基础](2/21.md)
   * [2.2. 方法\(Method\)命名](2/22.md)
