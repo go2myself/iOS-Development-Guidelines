@@ -1,8 +1,6 @@
 # Summary
 
-* [封面](feng-mian.md)
-* [修订记录](xiu-ding-ji-lu.md)
-* [0. 介绍](README.md)
+* [介绍](README.md)
 * [1. 核心原则](1.md)
 * [2. 代码命名规范](2.md)
   * [2.1. 代码命名基础](2/21.md)
@@ -26,5 +24,4 @@
 * [8. 参考](8.md)
 * [9. iOS开发优化](9.md)
 * [\* Swift编码规范](swiftbian-ma-gui-fan.md)
-* 修订记录
 
