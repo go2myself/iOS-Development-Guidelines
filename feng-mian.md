@@ -2,8 +2,8 @@
 <div align = "center">
 <img src="/assets/logo_big.png"/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<p><font size = 5> IOS编码规范</font></p>
-<p><font size = 5> V1.0</font></p>
+<p><font size = 6> IOS编码规范</font></p>
+<p><font size = 6> V1.0</font></p>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <p><font size = 5 color = blue> 2018-03-01</font></p>
 <br/><br/><br/><br/><br/>
