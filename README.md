@@ -1,7 +1,9 @@
 # 介绍
 
 ---
+
 该文档主要面向中国农业银行软件开发中心移动营销组iOS开发团队，以[Coding Guidelines for Cocoa](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146-SW1)为基础针对编码、项目架构、开发实践等进行规范和约定。持续更新中......
+
 ![](/assets/logo_big.png)
 * [0. 介绍](README.md)
 * [1. 核心原则](1.md)
