@@ -1,5 +1,7 @@
 # Summary
 
+* [封面](feng-mian.md)
+* [修订记录](xiu-ding-ji-lu.md)
 * [介绍](README.md)
 * [1. 核心原则](1.md)
 * [2. 代码命名规范](2.md)
@@ -22,6 +24,4 @@
   * [7.1. Xcode扩展插件](7/71.md)
   * [7.2. 第三方开源库](7/72.md)
 * [8. 参考](8.md)
-* [9. iOS开发优化](9.md)
-* [\* Swift编码规范](swiftbian-ma-gui-fan.md)
 
